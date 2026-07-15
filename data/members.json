@@ -1,0 +1,138 @@
+[
+  {
+    "nameKo": "손현창",
+    "nameEn": "Son Hyeonchang",
+    "program": "M.S./Ph.D. course · 9th semester",
+    "email": "hyeonchangson@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/01.svg"
+  },
+  {
+    "nameKo": "안성운",
+    "nameEn": "An Sung-Un",
+    "program": "M.S./Ph.D. course · 7th semester",
+    "email": "nebula5596@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/02.svg"
+  },
+  {
+    "nameKo": "백주환",
+    "nameEn": "Baek Juhwan",
+    "program": "M.S./Ph.D. course · 5th semester",
+    "email": "bjh001027@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/03.svg"
+  },
+  {
+    "nameKo": "윤성일",
+    "nameEn": "Yun Seongil",
+    "program": "M.S. course · 3rd semester",
+    "email": "sungil7710@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/04.svg"
+  },
+  {
+    "nameKo": "최유석",
+    "nameEn": "Choi Yuseok",
+    "program": "M.S. course · 3rd semester",
+    "email": "useokchoi@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/05.svg"
+  },
+  {
+    "nameKo": "이준서",
+    "nameEn": "Lee June Seo",
+    "program": "M.S. course · 3rd semester",
+    "email": "leejuneseo@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/06.svg"
+  },
+  {
+    "nameKo": "김태윤",
+    "nameEn": "Kim Taeyun",
+    "program": "M.S. course · 2nd semester",
+    "email": "xodbs1018@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/07.svg"
+  },
+  {
+    "nameKo": "박민식",
+    "nameEn": "Park Minsik",
+    "program": "M.S. course · 1st semester",
+    "email": "minsik333@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/08.svg"
+  },
+  {
+    "nameKo": "윤예원",
+    "nameEn": "Yun Yewon",
+    "program": "M.S. course · 1st semester",
+    "email": "ywyunn01@gm.gist.ac.kr",
+    "category": "graduate",
+    "image": "/assets/images/members/09.svg"
+  },
+  {
+    "nameKo": "고하늘",
+    "nameEn": "Go Haneul",
+    "program": "Undergraduate · 8th semester",
+    "email": "skygo1023@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/10.svg"
+  },
+  {
+    "nameKo": "공민석",
+    "nameEn": "Gong Minseok",
+    "program": "Undergraduate · 8th semester",
+    "email": "gumskong@naver.com",
+    "category": "undergraduate",
+    "image": "/assets/images/members/11.svg"
+  },
+  {
+    "nameKo": "김재연",
+    "nameEn": "Kim Jaeyeon",
+    "program": "Undergraduate · 8th semester",
+    "email": "jyk80080@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/12.svg"
+  },
+  {
+    "nameKo": "한수현",
+    "nameEn": "Han Suhyun",
+    "program": "Undergraduate · 7th semester",
+    "email": "han_shyun@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/13.svg"
+  },
+  {
+    "nameKo": "권민호",
+    "nameEn": "Kwon Minho",
+    "program": "Undergraduate · 7th semester",
+    "email": "kwonminho@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/14.svg"
+  },
+  {
+    "nameKo": "이영민",
+    "nameEn": "Lee Youngmin",
+    "program": "Undergraduate · 5th semester",
+    "email": "youngmin0530@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/15.svg"
+  },
+  {
+    "nameKo": "이영택",
+    "nameEn": "Lee Youngtaek",
+    "program": "Undergraduate · 5th semester",
+    "email": "imlyt2003@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/16.svg"
+  },
+  {
+    "nameKo": "박준형",
+    "nameEn": "Park Junhyung",
+    "program": "Undergraduate · 5th semester",
+    "email": "junbrokr@gm.gist.ac.kr",
+    "category": "undergraduate",
+    "image": "/assets/images/members/17.svg"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "process",
+    "title": "2D Material-Based Process Technologies",
+    "titleKo": "2차원 물질 기반 공정 기술 개발",
+    "summary": "Scalable fabrication, transfer, contact, interface and heterogeneous-integration technologies for emerging two-dimensional semiconductors.",
+    "icon": "process.svg"
+  },
+  {
+    "id": "devices",
+    "title": "Next-Generation AI Semiconductor Devices",
+    "titleKo": "차세대 AI 반도체·뉴로모픽 소자 개발",
+    "summary": "Reconfigurable transistors, artificial synapses and neurons, optoelectronic memories, and in-sensor computing devices.",
+    "icon": "devices.svg"
+  },
+  {
+    "id": "systems",
+    "title": "System-Level AI Hardware Implementation",
+    "titleKo": "차세대 AI 반도체 하드웨어 실증",
+    "summary": "Hardware demonstrations connecting sensing, memory, learning, inference, and decision-making using emerging devices.",
+    "icon": "systems.svg"
+  }
+]

@@ -1,0 +1,1 @@
+document.querySelectorAll("[data-filter]").forEach(btn=>btn.addEventListener("click",()=>{const group=btn.parentElement;group.querySelectorAll("button").forEach(b=>b.classList.remove("active"));btn.classList.add("active");const f=btn.dataset.filter;document.querySelectorAll("[data-category]").forEach(el=>el.style.display=(f==="all"||el.dataset.category===f)?"":"none")}));

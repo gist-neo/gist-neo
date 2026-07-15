@@ -1,0 +1,26 @@
+{
+  "name": "Dong-Ho Kang, Ph.D.",
+  "nameKo": "강동호",
+  "title": "Associate Professor",
+  "affiliations": [
+    "Department of Semiconductor Engineering",
+    "Department of Electrical Engineering and Computer Science (EECS)",
+    "Gwangju Institute of Science and Technology (GIST)"
+  ],
+  "email": "donghokang@gist.ac.kr",
+  "phone": "+82-62-715-2638",
+  "experience": [
+    "Associate Professor, GIST (Mar. 2026–present)",
+    "Assistant Professor, GIST (Feb. 2025–Feb. 2026)",
+    "Assistant Professor, GIST EECS (Nov. 2021–Jan. 2025)",
+    "Postdoctoral Research Fellow, Nanyang Technological University (Mar. 2019–Sep. 2021)"
+  ],
+  "education": [
+    "M.S./Ph.D., Sungkyunkwan University (2014–2019)",
+    "B.S., Sungkyunkwan University (2008–2014)"
+  ],
+  "awards": [
+    "Young Scientist Award, Korea Flexible & Printed Electronics Society (2025)",
+    "Superior Research Awards, Sungkyunkwan University (2014, 2015, 2017)"
+  ]
+}
